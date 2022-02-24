@@ -1,0 +1,5 @@
+# Wat Playground
+
+## LICENSE
+
+MIT

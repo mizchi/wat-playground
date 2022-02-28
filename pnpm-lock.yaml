@@ -3,6 +3,7 @@ lockfileVersion: 5.3
 specifiers:
   '@types/react': ^17.0.39
   '@types/react-dom': ^17.0.11
+  '@wasmer/wasi': ^1.0.2
   monaco-editor: ^0.32.1
   react: ^17.0.2
   react-dom: ^17.0.2
@@ -13,6 +14,7 @@ specifiers:
 devDependencies:
   '@types/react': 17.0.39
   '@types/react-dom': 17.0.11
+  '@wasmer/wasi': 1.0.2
   monaco-editor: 0.32.1
   react: 17.0.2
   react-dom: 17.0.2_react@17.0.2
@@ -42,6 +44,10 @@ packages:
 
   /@types/scheduler/0.16.2:
     resolution: {integrity: sha512-hppQEBDmlwhFAXKJX2KnWLYu5yMfi91yazPb2l+lbJiwW+wdo1gNeRA+3RgNSO39WYX2euey41KEwnqesU2Jew==}
+    dev: true
+
+  /@wasmer/wasi/1.0.2:
+    resolution: {integrity: sha512-Y256k0Vjj9ZymIk8Cw1XDfuBYCOH9SZc2LjGk55vM+h6mhrKZkNvbR4pZeoXNdPWIu84luW0dULaAsLv5LA9NA==}
     dev: true
 
   /csstype/3.0.10:
